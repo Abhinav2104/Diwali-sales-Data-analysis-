@@ -1,1 +1,2 @@
 # Diwali-sales-Data-analysis-
+Conducted a comprehensive analysis of Diwali sales data to uncover trends in customer purchasing behavior. Identified the most profitable customer segments, peak sales times, and high-demand products. The insights gained were used to optimize inventory management and develop targeted marketing campaigns, resulting in enhanced sales performance and improved customer engagement during the festive season using python, matplotlib and seaborn modules. 
